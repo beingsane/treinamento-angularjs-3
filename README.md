@@ -1,7 +1,7 @@
 #Treinamento AngularJS
 
 Este repositório tem por fim armazenar o conteúdo ministrado no treinamento de AngularJS.
-As apresentações estão disponíveis <a href="https://slides.com/renanjohannsendepaula">slides.com</a>;
+As apresentações estão disponíveis no <a href="https://slides.com/renanjohannsendepaula">slides.com</a>;
 
 ## Aulas:
 <ol>
