@@ -10,4 +10,5 @@ As apresentações estão disponíveis no <a href="https://slides.com/renanjohan
 </ol>
 
 =====================
+As demais aulas estão ainda sendo preparadas... <br/>
 Qualquer dúvida estou a disposição! ^^
